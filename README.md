@@ -4,3 +4,7 @@ Simon is a repetitive memory game where you follow the demonstrated color sequen
 How to deploy to my production environment. 
 ./deployFiles.sh -k <yourpemkey> -h <yourdomain> -s simon
 ./deployFiles.sh -k ~/keys/production.pem -h yourdomain.click -s simon
+
+# simon-html
+
+This deliverable demonstrates the use of basic HTML elements for structure, basic formatting, input, output, links, and drawing.
