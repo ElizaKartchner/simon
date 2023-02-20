@@ -8,3 +8,6 @@ How to deploy to my production environment.
 # simon-html
 
 This deliverable demonstrates the use of basic HTML elements for structure, basic formatting, input, output, links, and drawing.
+
+# simon-css 
+This application deliverable demonstrates the use of basic CSS for styling and a responsive design.
