@@ -7,6 +7,9 @@
         <title>Simon</title>
         <link rel="icon" href="favicon.ico" />
 
+        <!-- Include reference to javaScript file -->
+        <script src="login.js"></script>
+
         <!-- Include reference to the CSS file using the link element -->
         <link rel="stylesheet" href="main.css" />
 
@@ -49,7 +52,7 @@
                 <form method="get" action="play.html">
                     <label for="name">Name</label>
                     <input type="text" id="name" placeholder="Your name here" />
-                    <button type="submit" class="btn btn-primary">Login</button>
+                    <button class="btn btn-primary" onclick="login()">Login</button>
                 </form>
             </div>
         </main>
