@@ -11,3 +11,6 @@ This deliverable demonstrates the use of basic HTML elements for structure, basi
 
 # simon-css 
 This application deliverable demonstrates the use of basic CSS for styling and a responsive design.
+
+# simon-javascript
+This deliverable demonstrates the use of basic JavaScript for interactivity.
