@@ -14,3 +14,7 @@ This application deliverable demonstrates the use of basic CSS for styling and a
 
 # simon-javascript
 This deliverable demonstrates the use of basic JavaScript for interactivity.
+
+# simon-service
+
+This deliverable demonstrates converting the JavaScript application into a web application by implementing a web service that listens on a network port for HTTP requests.
