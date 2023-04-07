@@ -24,3 +24,6 @@ This deliverable demonstrates using a database service, MongoDB, to persistently
 
 # simon-login 
 This deliverable demonstrates authenticating users and storing credentials and authentication tokens in MongoDB.
+
+# simon-react
+This deliverable demonstrates using a web framework.
